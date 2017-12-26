@@ -6,8 +6,8 @@ Keywords :- Content-based Image Retrieval; Image Segmentation; Clustering; K-MED
 
 Note: The Material here is copyrighted, Please use proper citation to use the material.
 
-APA
+APA:
 Rashmi Chauhan, Shashank Kumar Som, Ankush Mittal. "K-MED: An Algorithm of Uniform Clustering for Efficient Content-Based Image Retrieval". International Journal of Computer Science Trends and Technology (IJCST) V4(2): Page(1-8) Mar-Apr 2016. ISSN: 2347-8578. www.ijcstjournal.org.Published by Eighth Sense Research Group.
 
-MLA
+MLA:
 Rashmi Chauhan, Shashank Kumar Som, Ankush Mittal. V4(2): Page (1-8) Mar-Apr 2016. "K-MED: An Algorithm of Uniform Clustering for Efficient Content-Based Image Retrieval". International Journal of Computer Science Trends and Technology (IJCST) ISSN: 2347-8578. www.ijcstjournal.org. Published by Eighth Sense Research Group.
